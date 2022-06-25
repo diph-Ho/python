@@ -1,0 +1,3 @@
+manage.py : 중요한?
+settings.py : 장고의 다양한 config
+urls.py
